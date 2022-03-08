@@ -80,7 +80,7 @@ namespace Kovo8.Controllers
         public async Task<IActionResult> ZydriusTulpe()
         {
             var tulpeModel = await _context.Tulpes
-                .FirstOrDefaultAsync(m => m.Id == 2);
+                .FirstOrDefaultAsync(m => m.Id == 6);
             if (tulpeModel == null)
             {
                 return NotFound();

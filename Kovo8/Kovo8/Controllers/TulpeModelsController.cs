@@ -43,6 +43,18 @@ namespace Kovo8.Controllers
             return View(tulpeModel);
         }
 
+        public async Task<IActionResult> JonoTulpe()
+        {
+            var tulpeModel = await _context.Tulpes
+                .FirstOrDefaultAsync(m => m.Id == 1);
+            if (tulpeModel == null)
+            {
+                return NotFound();
+            }
+
+            return View(tulpeModel);
+        }
+
         // GET: TulpeModels/Create
         public IActionResult Create()
         {

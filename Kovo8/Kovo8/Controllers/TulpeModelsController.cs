@@ -54,6 +54,17 @@ namespace Kovo8.Controllers
 
             return View(tulpeModel);
         }
+        public async Task<IActionResult> EvaldoTulpe()
+        {
+            var tulpeModel = await _context.Tulpes
+                .FirstOrDefaultAsync(m => m.Id == 5);
+            if (tulpeModel == null)
+            {
+                return NotFound();
+            }
+
+            return View(tulpeModel);
+        }
 
         public async Task<IActionResult> PauliausTulpe()
         {

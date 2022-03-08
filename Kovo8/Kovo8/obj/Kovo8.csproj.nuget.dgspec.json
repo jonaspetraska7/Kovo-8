@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Kovo8.csproj": {}
+    "C:\\Users\\pauli\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj": {}
   },
   "projects": {
-    "/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Kovo8.csproj": {
+    "C:\\Users\\pauli\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Kovo8.csproj",
+        "projectUniqueName": "C:\\Users\\pauli\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj",
         "projectName": "Kovo8",
-        "projectPath": "/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Kovo8.csproj",
-        "packagesPath": "/Users/vilkas/.nuget/packages/",
-        "outputPath": "/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/obj/",
+        "projectPath": "C:\\Users\\pauli\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj",
+        "packagesPath": "C:\\Users\\pauli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pauli\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/vilkas/.config/NuGet/NuGet.Config"
+          "C:\\Users\\pauli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -79,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

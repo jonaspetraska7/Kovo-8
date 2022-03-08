@@ -77,7 +77,21 @@ namespace Kovo8.Controllers
 
             return View(tulpeModel);
         }
+<<<<<<< HEAD
 
+=======
+        public async Task<IActionResult> VilkoTulpe()
+        {
+            var tulpeModel = await _context.Tulpes
+                .FirstOrDefaultAsync(m => m.Id == 5);
+            if (tulpeModel == null)
+            {
+                return NotFound();
+            }
+
+            return View(tulpeModel);
+        }
+>>>>>>> parent of 454f05d (Merge branch 'main' of https://github.com/johnsnow0/Kovo-8)
         // GET: TulpeModels/Create
         public IActionResult Create()
         {

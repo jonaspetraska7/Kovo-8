@@ -9519,11 +9519,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\pauli\\.nuget\\packages\\": {}
+=======
+    "/Users/vilkas/.nuget/packages/": {}
+>>>>>>> parent of 454f05d (Merge branch 'main' of https://github.com/johnsnow0/Kovo-8)
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\pauli\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj",
       "projectName": "Kovo8",
       "projectPath": "C:\\Users\\pauli\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj",
@@ -9533,12 +9538,21 @@
       "configFilePaths": [
         "C:\\Users\\pauli\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+=======
+      "projectUniqueName": "/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Kovo8.csproj",
+      "projectName": "Kovo8",
+      "projectPath": "/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Kovo8.csproj",
+      "packagesPath": "/Users/vilkas/.nuget/packages/",
+      "outputPath": "/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/vilkas/.config/NuGet/NuGet.Config"
+>>>>>>> parent of 454f05d (Merge branch 'main' of https://github.com/johnsnow0/Kovo-8)
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -9598,7 +9612,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

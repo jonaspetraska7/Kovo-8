@@ -8,61 +8,61 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kovo8
 build_property.RootNamespace = Kovo8
-build_property.ProjectDir = C:\Users\Jonas\Documents\Kovo-8\Kovo8\Kovo8\
+build_property.ProjectDir = Z:\GitHub\Kovo-8\Kovo8\Kovo8\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Jonas\Documents\Kovo-8\Kovo8\Kovo8
+build_property.MSBuildProjectDirectory = Z:\GitHub\Kovo-8\Kovo8\Kovo8
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Jonas/Documents/Kovo-8/Kovo8/Kovo8/Views/Home/Index.cshtml]
+[Z:/GitHub/Kovo-8/Kovo8/Kovo8/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonas/Documents/Kovo-8/Kovo8/Kovo8/Views/Home/Privacy.cshtml]
+[Z:/GitHub/Kovo-8/Kovo8/Kovo8/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonas/Documents/Kovo-8/Kovo8/Kovo8/Views/Shared/Error.cshtml]
+[Z:/GitHub/Kovo-8/Kovo8/Kovo8/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonas/Documents/Kovo-8/Kovo8/Kovo8/Views/Shared/_ValidationScriptsPartial.cshtml]
+[Z:/GitHub/Kovo-8/Kovo8/Kovo8/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonas/Documents/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Create.cshtml]
+[Z:/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonas/Documents/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Delete.cshtml]
+[Z:/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonas/Documents/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Details.cshtml]
+[Z:/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonas/Documents/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Edit.cshtml]
+[Z:/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonas/Documents/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Index.cshtml]
+[Z:/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonas/Documents/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/JonoTulpe.cshtml]
+[Z:/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/JonoTulpe.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcSm9ub1R1bHBlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonas/Documents/Kovo-8/Kovo8/Kovo8/Views/_ViewImports.cshtml]
+[Z:/GitHub/Kovo-8/Kovo8/Kovo8/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonas/Documents/Kovo-8/Kovo8/Kovo8/Views/_ViewStart.cshtml]
+[Z:/GitHub/Kovo-8/Kovo8/Kovo8/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Jonas/Documents/Kovo-8/Kovo8/Kovo8/Views/Shared/_Layout.cshtml]
+[Z:/GitHub/Kovo-8/Kovo8/Kovo8/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-xixr0j3wir

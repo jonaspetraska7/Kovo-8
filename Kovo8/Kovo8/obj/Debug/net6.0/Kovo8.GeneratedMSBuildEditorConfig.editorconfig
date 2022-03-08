@@ -8,73 +8,73 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Kovo8
 build_property.RootNamespace = Kovo8
-build_property.ProjectDir = C:\Users\zydru\Documents\GitHub\Kovo-8\Kovo8\Kovo8\
+build_property.ProjectDir = /Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\zydru\Documents\GitHub\Kovo-8\Kovo8\Kovo8
+build_property.MSBuildProjectDirectory = /Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcQ3JlYXRlLmNzaHRtbA==
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/TulpeModels/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHVscGVNb2RlbHMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcRGVsZXRlLmNzaHRtbA==
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/TulpeModels/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHVscGVNb2RlbHMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcRGV0YWlscy5jc2h0bWw=
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/TulpeModels/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHVscGVNb2RlbHMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcRWRpdC5jc2h0bWw=
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/TulpeModels/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHVscGVNb2RlbHMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/EvaldoTulpe.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcRXZhbGRvVHVscGUuY3NodG1s
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/TulpeModels/EvaldoTulpe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHVscGVNb2RlbHMvRXZhbGRvVHVscGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcSW5kZXguY3NodG1s
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/TulpeModels/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHVscGVNb2RlbHMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/JonoTulpe.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcSm9ub1R1bHBlLmNzaHRtbA==
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/TulpeModels/JonoTulpe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHVscGVNb2RlbHMvSm9ub1R1bHBlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/PauliausTulpe.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcUGF1bGlhdXNUdWxwZS5jc2h0bWw=
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/TulpeModels/PauliausTulpe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHVscGVNb2RlbHMvUGF1bGlhdXNUdWxwZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/TulpeModels/ZydriusTulpe.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVscGVNb2RlbHNcWnlkcml1c1R1bHBlLmNzaHRtbA==
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/TulpeModels/VilkoTulpe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvVHVscGVNb2RlbHMvVmlsa29UdWxwZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/zydru/Documents/GitHub/Kovo-8/Kovo8/Kovo8/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-xixr0j3wir
+[/Users/vilkas/Documents/GitHub/Untitled/Kovo8/Kovo8/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-x4kgubjayj

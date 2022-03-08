@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RYZAS10\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj": {}
+    "C:\\Users\\pauli\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RYZAS10\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj": {
+    "C:\\Users\\pauli\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RYZAS10\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj",
+        "projectUniqueName": "C:\\Users\\pauli\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj",
         "projectName": "Kovo8",
-        "projectPath": "C:\\Users\\RYZAS10\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj",
-        "packagesPath": "C:\\Users\\RYZAS10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RYZAS10\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\obj\\",
+        "projectPath": "C:\\Users\\pauli\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj",
+        "packagesPath": "C:\\Users\\pauli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pauli\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RYZAS10\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pauli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

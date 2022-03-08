@@ -77,10 +77,10 @@ namespace Kovo8.Controllers
 
             return View(tulpeModel);
         }
-        public async Task<IActionResult> VilkoTulpe()
+        public async Task<IActionResult> ZydriusTulpe()
         {
             var tulpeModel = await _context.Tulpes
-                .FirstOrDefaultAsync(m => m.Id == 5);
+                .FirstOrDefaultAsync(m => m.Id == 6);
             if (tulpeModel == null)
             {
                 return NotFound();
@@ -88,6 +88,19 @@ namespace Kovo8.Controllers
 
             return View(tulpeModel);
         }
+
+        public async Task<IActionResult> GermantoTulpe()
+        {
+            var tulpeModel = await _context.Tulpes
+                .FirstOrDefaultAsync(m => m.Id == 2);
+            if (tulpeModel == null)
+            {
+                return NotFound();
+            }
+
+            return View(tulpeModel);
+        }
+
         // GET: TulpeModels/Create
         public IActionResult Create()
         {

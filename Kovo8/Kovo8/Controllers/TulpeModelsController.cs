@@ -77,6 +77,17 @@ namespace Kovo8.Controllers
 
             return View(tulpeModel);
         }
+        public async Task<IActionResult> ZydriusTulpe()
+        {
+            var tulpeModel = await _context.Tulpes
+                .FirstOrDefaultAsync(m => m.Id == 6);
+            if (tulpeModel == null)
+            {
+                return NotFound();
+            }
+
+            return View(tulpeModel);
+        }
 
         public async Task<IActionResult> GermantoTulpe()
         {

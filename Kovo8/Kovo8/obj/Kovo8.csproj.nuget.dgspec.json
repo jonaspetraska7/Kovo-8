@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zydru\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj": {}
+    "C:\\Users\\Arnas\\Documents\\GitHub\\kovo\\Kovo8\\Kovo8\\Kovo8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zydru\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj": {
+    "C:\\Users\\Arnas\\Documents\\GitHub\\kovo\\Kovo8\\Kovo8\\Kovo8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zydru\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj",
+        "projectUniqueName": "C:\\Users\\Arnas\\Documents\\GitHub\\kovo\\Kovo8\\Kovo8\\Kovo8.csproj",
         "projectName": "Kovo8",
-        "projectPath": "C:\\Users\\zydru\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\Kovo8.csproj",
-        "packagesPath": "C:\\Users\\zydru\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zydru\\Documents\\GitHub\\Kovo-8\\Kovo8\\Kovo8\\obj\\",
+        "projectPath": "C:\\Users\\Arnas\\Documents\\GitHub\\kovo\\Kovo8\\Kovo8\\Kovo8.csproj",
+        "packagesPath": "C:\\Users\\Arnas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arnas\\Documents\\GitHub\\kovo\\Kovo8\\Kovo8\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\zydru\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Arnas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
